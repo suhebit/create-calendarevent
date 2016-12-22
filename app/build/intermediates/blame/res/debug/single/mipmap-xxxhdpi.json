@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ipspl/Demos/CreateCalanderEvent/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/ipspl/Demos/CreateCalanderEvent/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ipspl/Demos/TestCalendar-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/ipspl/Demos/TestCalendar-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
